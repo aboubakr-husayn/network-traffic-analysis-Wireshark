@@ -78,7 +78,8 @@ This project simulates a SOC Analyst investigation using Wireshark to analyze ne
 ---
 
 ## 📸 Screenshots
-(See uploaded images above)
+
+See uploaded images below for full investigation evidence.
 
 ---
 
