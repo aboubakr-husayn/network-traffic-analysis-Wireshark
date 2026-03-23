@@ -83,6 +83,12 @@ See uploaded images below for full investigation evidence.
 
 ---
 
+## 📄 Full Report
+
+A detailed version of this investigation is available below:
+
+[Download Full Report](./full-report.odt)
+
 ## 📌 Conclusion
 This project demonstrates practical SOC investigation skills by identifying and analyzing multiple network-based threats.
 
